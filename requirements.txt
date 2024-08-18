@@ -1,0 +1,5 @@
+tqdm
+plyer
+ollama
+tabulate
+pyautogui
