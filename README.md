@@ -1,5 +1,9 @@
 # ObsiOtter
 
+<div align="center">
+    <img src="./logo.png" alt="ObsiOtter Logo" width="35%"/>
+</div>
+
 ObsiOtter is a powerful tool designed to refine and process Markdown files in your Obsidian vault. Leveraging the Ollama LLM, it transforms raw notes into well-structured, enhanced documents, ready for use in Obsidian.
 
 ## Table of Contents
