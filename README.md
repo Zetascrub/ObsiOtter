@@ -52,6 +52,10 @@ OUTPUT_FOLDER: The directory where processed files will be saved.
 
 2. Follow the prompts to configure your processing options.
 
+## To do
+
+1. Improve prompts to prevent conversational output in the new files.
+
 ## Contributing
 
 Feel free to submit issues or pull requests if you have suggestions or improvements.
