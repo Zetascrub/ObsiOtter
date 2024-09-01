@@ -1,7 +1,7 @@
 # ObsiOtter
 
 <div align="center">
-    <img src="./logo.png" alt="ObsiOtter Logo" width="35%"/>
+    <img src="./assets/logo.png" alt="ObsiOtter Logo" width="35%"/>
 </div>
 
 ObsiOtter is a powerful tool designed to refine and process Markdown files in your Obsidian vault. Leveraging the Ollama LLM, it transforms raw notes into well-structured, enhanced documents, ready for use in Obsidian.
@@ -25,7 +25,7 @@ ObsiOtter is a powerful tool designed to refine and process Markdown files in yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/obsiotter.git
+   git clone https://github.com/zetascrub/obsiotter.git
    cd obsiotter
    ```
 2. Install the dependencies:

@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore logs
+logs/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore checkpoint data
+checkpoint.json
+
+# Ignore old or archived files
+Old/

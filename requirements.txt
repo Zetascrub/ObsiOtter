@@ -3,3 +3,5 @@ plyer
 ollama
 tabulate
 pyautogui
+langchain-community
+openai  # Only if using OpenAI's services
